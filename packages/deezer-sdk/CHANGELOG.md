@@ -1,5 +1,11 @@
 # deezer-sdk
 
+## 1.11.0
+
+### Minor Changes
+
+- f3847ce: update all dependencies
+
 ## 1.10.2
 
 ### Patch Changes

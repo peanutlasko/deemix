@@ -1,5 +1,16 @@
 # deemix-gui
 
+## 0.6.0
+
+### Minor Changes
+
+- f3847ce: update all dependencies
+
+### Patch Changes
+
+- Updated dependencies [f3847ce]
+  - deemix-webui@4.8.0
+
 ## 0.5.0
 
 ### Minor Changes
